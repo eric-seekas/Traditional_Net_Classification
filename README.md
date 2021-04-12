@@ -43,4 +43,9 @@ python run.py --model BiLSTM_Att
 模型都在models目录下，超参定义和模型定义在同一文件中。  
   
 
+＃模型结果：
+链接：https://pan.baidu.com/s/1cBs3w36R6zP4MVDtjzzGnQ 
+提取码：exm2 
+复制这段内容后打开百度网盘手机App，操作更方便哦
+
 
