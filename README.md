@@ -1,5 +1,5 @@
 ## 机器
-GeForce RTX 280  
+GeForce RTX 2080  
 
 
 ## 环境
