@@ -29,8 +29,8 @@ ChineseNlpCorpus中属于情感/观点/评论倾向性分析的微博评论数�
 
 模型|acc|备注
 --|--|--
-BiLSTM_Att|97.93%|BiLSTM+Attention
-TextRCNN|97.59%|BiLSTM+池化
+BiLSTM_Att | 97.92％| BiLSTM + Attention
+TextRCNN | 97.87％| BiLSTM +池化
 FastText|97.65%|bow+bigram+trigram
 
  
